@@ -5,5 +5,9 @@
   "name": "SpookaWeen",
   "decimals": 9,
   "logoURI": "https://gmgn.ai/external-res/aca3a4004c4280821d4a848af0b9f23d_v2.webp",
-  "tags": ["community", "meme", "holiday"]
+  "tags": ["community", "meme", "holiday"],
+  "extensions": {
+    "description": "SpookaWeen rises on Halloween with one of the strongest communities on Solana — holders united to take this coin to the moon. Follow the movement on Twitter: https://x.com/CryptoMaticsINC",
+    "twitter": "https://x.com/CryptoMaticsINC"
+  }
 }
