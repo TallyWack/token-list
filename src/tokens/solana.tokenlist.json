@@ -1,9 +1,9 @@
 [
   {
     "chainId": 101,
-    "address": "",
+    "address": "2c1RFDqjgLZ5YtnF45PZJJVpUG2hjSkiqtFyHm2wiz5i",
     "symbol": "SPWN",
-    "name": "SpookaWeeny",
+    "name": "SpookaWeen",
     "decimals": 9,
     "logoURI": "https://gmgn.ai/external-res/aca3a4004c4280821d4a848af0b9f23d_v2.webp",
     "tags": ["community", "meme", "holiday"],
@@ -28,6 +28,7 @@
   }
 
 ]
+
 
 
 
