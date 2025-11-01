@@ -1,7 +1,7 @@
 [
   {
     "chainId": 101,
-    "address": "2c1RFDqjgLZ5YtnF45PZJJVpUG2hjSkiqtFyHm2wiz5i",
+    "address": "",
     "symbol": "SPWN",
     "name": "SpookaWeeny",
     "decimals": 9,
@@ -28,6 +28,7 @@
   }
 
 ]
+
 
 
 
