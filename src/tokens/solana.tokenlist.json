@@ -10,4 +10,20 @@
     "description": "SpookaWeen rises on Halloween with one of the strongest communities on Solana — holders united to take this coin to the moon. Follow the movement on Twitter: https://x.com/CryptoMaticsINC",
     "twitter": "https://x.com/CryptoMaticsINC"
   }
+},
+{
+  "name": "Turkey Run",
+  "symbol": "TKRN",
+  "address": "BMsyoJLqHM5YpGGsKt2yAwybhKMov7FSFAVa8BFfBgSB",
+  "chainId": 101,
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/TallyWack/Turkey-Run/main/ChatGPT%20Image%20Oct%2031,%202025,%2006_03_23%20PM.png",
+  "tags": ["utility", "meme", "community"],
+  "extensions": {
+    "twitter": "https://x.com/CryptoMaticsINC",
+    "telegram": "https://t.me/crpytomaticinc/1",
+    "description": "Spookaween on Halloween – strongest community I've ever seen holding a coin, let's MOON!"
+  }
 }
+
+
